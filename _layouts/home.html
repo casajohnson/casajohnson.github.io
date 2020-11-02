@@ -1,0 +1,36 @@
+---
+layout: default
+include_header: false
+---
+<div class="container">
+<article class="post">
+
+  <div class="container">
+    <div class="logo" title="casa Johnson — Mark Johnson's personal site">
+        <a href="/"><img src="/assets/images/pages/casaJohnson.svg" width="800px" alt="site logo" role="logo"></a>
+    </div>
+  </div>
+  <div class="container">
+    <div class="template__heading">
+      <h1>{{- site.greeting | markdownify -}}</h1>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="blog__feed">
+        {% for welcome in site.data.welcomes %}        
+          <div class="blog__post">            
+            <div class="blog__meta-container">
+              <div class="blog__meta">
+              <h2><strong><a href="{{ welcome.link }}">{{ welcome.name }}</a></strong></h2>
+            </div>
+            </div>
+            <div class="blog__excerpt">
+              <a href="{{ welcome.link }}">{{ welcome.description | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+            </div>
+          </div>
+        {% endfor %}
+    </div>
+  </div>
+</article>
+</div>

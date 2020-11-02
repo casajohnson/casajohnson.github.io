@@ -1,0 +1,28 @@
+---
+layout: post
+include_header: true
+title: The unthinkable, by the unthinking
+date: 2014-10-23T00:13:46+00:00
+excerpt: 'We say that terrorists do unthinkable things. Yet terrorists are humans like the rest of us, and so they do think. How does this all work?'
+category: archive, opinion
+tags:
+  - James Foley
+  - Alan Henning
+  - David Haines
+  - Steven Sotloff
+---
+News of the Islamic States in Syria’s (ISIS) beheading of aid workers Alan Henning and David Haines, following those of journalists Steven Sotloff and Marquette’s James Foley, produced sincere condemnation by world leaders, journalists, and commentators. These misdeeds have been called horrifying, gut-wrenching, and wicked. The President has spoken of them as appalling and barbaric, while others say that those who took these four lives—there will be more—are brutal and savage.
+
+But these descriptions both mislead and fail to get to the heart of the matter. For if we are being clear, the treatment of James Foley, Steven Sotloff, David Haines, and Alan Henning was not ‘brutal’ or ‘savage.’ Brutal things are done by brutes—lions, bears, snakes, sharks—which are animals devoid of reason. Our human reason or intelligence is the cause and hallmark of our dignity. Brute animals, by contrast, operate in the physical world of nature, red in tooth and claw, where they must kill or be killed. So they attack and kill without thinking, acting instead on the instincts given them by nature, and nature’s God. This is why we don’t put animals on trial when they kill a human being; lacking free choice, they cannot but do what they do.
+
+So also, savage things are done by savages—humans in pre-civilized cultures, we might say—who indeed are humans possessing reason, but who have not yet had the range of corrective experiences from history and religion that lift cultures to a point of fuller human living and interaction: no belief yet in individual human dignity and worth, and no system of the rule of man-made law with a right to participate in one's own governance, and to appeal to impartial judges.
+
+No, what stuns us is that these misdeeds are performed by _contemporary humans_, who by definition have the use of reason and culture—the executioner in these videos was born and raised in London!—but who in this instance have chosen simply to stop reasoning, and turn their minds over to a God they think is dictating to them in real-time. No need any longer of frustrating searches for sketchy truth; that truth is already here, and speaking into your right ear with ringing clarity: “Yes, I know that you have never met this man before he was kidnapped by your comrades. And, true, he has done you no wrong of any sort. Kill him anyway.” What ISIS does calls for no deft thinking, no curtailing of one’s emotions now in the hope of abstract future gain. No patient negotiation with others whose truths fail to be images of your own. Instead, you capture someone you don’t know and who has done you no conceivable wrong, hold and maltreat them, video-tape the forced reading of a speech that has been read on camera a thousand times, and then use your knife like a saw. For this your mother bore you? For this you went to school?
+
+We strain to find apt descriptions of these deeds because we humans are at our best in saying what things _are_, rather than what they are _not_. We are good at describing real things: warm days, tasty food, smooth skin, blue oceans, musical children. But who is good at describing absence or negation, the ‘not there,’ the hole in the donut, or the blindness in an eye? Who is good at thinking about a thing that is present, while simultaneously imagining what is absent in the present thing that ought to be there? Who easily thinks about a crooked tibia when they think about a leg? Who is good at speaking about humans who do ‘unthinking’?
+
+The answer for the these perpetrators is “Never mind all that. Just do what God tells you.” And so they have embraced a version of their religion in which it is God alone who thinks and commands, and they, automatons now by choice, merely execute his will (which they find through a perfidious reading of a holy book). Their supposed executions are carried out by people who have chosen _not to think_ when the unthinkable is proposed to them, and _not to question_ the orders of their comrade unthinkers who command them. Yet these two features of thinking and questioning are what _define_ us as humans, make us superior to brute animals, and make us a little bit like God, who made us to be ever more-and-more like him. Thinking and questioning are the foundation upon which all human intellectual progress rests, leading us from savagery to humanity. To un-think is to un-human.
+
+So there is an irony in ISIS’s use of beheading as a way to give glory to God. What they do physically to others they have intellectually already done to themselves, by embracing a skewed version of Islam, a religion whose past has included glorious centuries of artistic, scientific, mathematical, medical and astronomic pursuits. Instead, ISIS has set for themselves the goal of gobbling up swathes of land in an effort to recreate a medieval kingdom run by a single, all-powerful political and religious caliph. Doing this invites them to toss away their own intellectual compass, which they do willingly. And enacting their vision has them extinguishing life in the name of the very God who gives it.
+
+With no head to think, the heart can be trained on anything as a possible good to be pursued, even the unthinkable good of killing someone you don’t know, and who has done you no wrong. So this is what we are seeing: the unthinkable, by the unthinking.

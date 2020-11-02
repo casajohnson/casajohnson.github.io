@@ -1,0 +1,13 @@
+---
+layout: post
+include_header: true
+title: Reading about writing
+date: 2006-06-02T18:41:28+00:00
+excerpt: 'My writing needs work. Time to read.'
+category: archive, academe, notes for students
+---
+With the academic year now over, I’m working hard to get through a few final to-do’s, such as a short introduction to a translation, and two book reviews. Once that’s done I hope to turn to writing only one thing: a monograph on St. Thomas’s moral teaching.
+
+In preparation for this enterprise I’ve been reading about the art of writing. If you’re like me you probably just began writing, getting pointers from teachers, friends, and others. Such practices may get the job done at the outset, but you pick up some bad habits along the way. Years ago I submitted an big article to the journal, _Theological Studies_. It was 35-pages in length, worked its way through _Theological Studies_’s editorial process, and gained acceptance…a year later. The editor told me that they’d run the article, but they wanted five pages trimmed off. For my part, to insure its quality, I knew that I also had to add new bibliography, tighten arguments, and respond to some objections that I then figured would be forthcoming against it. So I went to work, simultaneously adding content and quality while shortening its length. The discovery: I wrote bloated prose. In sentence after sentence I saw all sorts of duplication—[pleonasm](http://dictionary.reference.com/wordoftheday/archive/2006/05/31.html), Fr. Synan used to write on my papers in grad school. And of course it took a great deal of time. In the [16th of his _Lettres provinciales_](http://oregonstate.edu/instruct/phl302/texts/pascal/letters-c.html#LETTER%20XVI), Blaise Pascal apologizes to his correspondents, apologizing for his letter’s length. “The present letter is a very long one,” he noted, “simply because I had no leisure to make it shorter.” Thomas Jefferson borrowed the thought: “I’d have written you a shorter letter, but I didn’t have the time.” I took the time, and was delighted with its result.
+
+Ever since then I’ve been reading anything I can find about the art of good writing, while ensuring that my writing is as tight as can be. You might enjoy—and benefit from—a list of <a href="http://www.lifehack.org/articles/lifehack/fifty-50-tools-which-can-help-you-in-writing.html">50 writing tools</a> on one of my favorite web sites, <a href="http://www.lifehack.org/">lifehack.org</a>, which cover things ranging from the use of strong verbs (heavens, we academics are periphrastic in our writing!) to foreshadowing. My latest project: getting <a href="http://web.archive.org/web/20050306150703/www.poynter.org/content/content_view.asp?id=62969">rid of adverbs</a>!

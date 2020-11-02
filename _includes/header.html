@@ -1,0 +1,28 @@
+{%- if page.include_header -%}
+<div class="container">
+
+    <header class="header-primary is-closed">
+      <div id="breadcrumbs">
+        <span><span><a href="/">casa Johnson</a> / <span class="breadcrumb_last"
+              aria-current="page">{{ page.title }}</span></span></span>
+      </div>
+          
+      <span class="toggler">
+        <button class="toggler" role="button" title="Menu" value="Menu">
+          <i class="bread bread__top"></i>
+          <i class="bread bread__bottom"></i>
+        </button>
+      </span>
+
+      <nav class="nav-primary">
+        <ul class="nav__group">
+          <li><a href="/">Home</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/cv">Curriculum vitae</a></li>
+          <li><a href="/projects">Projects</a></li>
+          <li><a href="/archive">Archive</a></li>
+        </ul>
+      </nav>  
+    </header>
+</div>
+{%- endif -%}

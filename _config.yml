@@ -1,0 +1,50 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "casa Johnson" # the name of your site, e.g. ACME Corp.
+description: "Medievalist. Thomist. Theology. Marquette." # short description found in footers
+greeting: "# **Hello from Wisconsin**. My name is Mark Johnson, and I teach and research at [Marquette University](https://www.marquette.edu/theology/directory/mark-johnson.php). GitHub stashes my stuff and hosts this site for those interested in my research."
+
+show_excerpts: true # set to true to show excerpts on the blog page
+include_header: false # set to true to show the collapsing header on the page
+archive_description: "The blog content of things I have written in the past, on then-current events, and Marquette politics. The world is not the poorer for my not continuing this. But a medievalist is nothing if not a person of past records."
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-paginate-v2
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Produces a cleaner folder structure when using categories
+permalink: /blog/:year/:month/:title.html
+
+# Explicitly turn off the old code
+# paginate: off
+# paginate_path: nil
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 5
+  offset: 0
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+minima:
+  date_format: "%b %-d, %Y"
+
+collections:
+  projects:
+    output: true
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-paginate-v2

@@ -1,0 +1,59 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="template__heading">
+    <h1><strong>Archive.</strong> My old blog. The world is not the poorer for lack of my opinions on current things.
+      </h1>
+  </div>
+</div>
+
+<div class="container">
+  <div class="blog__feed">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in paginator.posts -%}
+        {% if post.category contains "archive" %}
+          <div class="blog__post">
+            <div class="blog__meta-container">  
+              <div class="blog__meta">
+                <h2><strong>
+                  <a href="{{ post.url | relative_url }}">
+                    {%- assign my_variable = post.title -%}
+                    {{ my_variable }}
+                  </a></strong>
+                </h2>
+                <time>{{ post.date | date: date_format }}</time>
+              </div>
+            </div>
+              {%- if site.show_excerpts -%}
+                <div class="blog__excerpt">
+                  <a href="{{ post.url | relative_url }}">
+                    {{ post.excerpt }}<span class="more"> →</span></a>
+                </div>  
+              {%- endif -%}
+          </div>
+        {%- endif -%}
+      {%- endfor -%}        
+  </div>
+</div>
+
+{% if paginator.total_pages > 1 %}
+<div class="container">
+  <nav class="nav-primary">
+    {% if paginator.previous_page %}
+      <ul class="nav__group">
+        <li>
+        <a class="no-underline" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer</a>
+        </li>
+      </ul>
+    {% endif %}
+    {% if paginator.next_page %}
+      <ul class="nav__group">
+        <li>
+        <a class="no-underline" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older &rarr;</a>
+        </li>
+      </ul>
+    {% endif %}
+  </nav>  
+</div>
+{% endif %}

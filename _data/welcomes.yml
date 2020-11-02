@@ -1,0 +1,13 @@
+- name: Blog
+  link: /blog
+  description: "At heart a blog is a web log. Mine focuses me on my committments. Opinions optional."
+- name: Curriculum vitae
+  link: /cv
+  description: "An obituary account of what I have done in print, including a decade-long swoon in publishing."
+- name: Projects
+  link: /projects
+  description: "What hoists me out of bed in the morning. Gonna get after it."
+- name: Archive
+  link: /archive
+  description: "My old blog's contents, which had opinion pieces about current affairs and Marquette. Not doing that anymore."
+  
