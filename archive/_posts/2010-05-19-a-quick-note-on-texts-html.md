@@ -10,4 +10,4 @@ A local commentator, Patrick McIlheran, spoke with me yesterday and then [posted
 
 Just a caution: we academics evolve and hopefully improve through our careers. Holding O’Brien today to something she wrote fourteen years ago just because the article can be accessed today is not cricket. She may well subscribe to the same beliefs today, but it’s only fair to draw that conclusion from reading her most recent writings.
 
-Only half-joking I tell my students that instead of giving up some simple transitory pleasure for Lent each year I take up the heavy penance of reading the papers I wrote in graduate school.
+Only half-joking I tell my students that instead of giving up some simple transitory pleasure for Lent each year I tackle the penance of reading the papers I wrote in graduate school.
