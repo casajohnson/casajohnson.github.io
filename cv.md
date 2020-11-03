@@ -7,7 +7,7 @@ include_header: true
 
 ## Ph.D. in Medieval Studies, specialization in Theology (1990)
 
-**University** of Toronto, Toronto, Ontario: Dissertation: “The Sapiential Character of _Sacra Doctrina_ in the Thought of St. Thomas Aquinas: The Appropriation of Aristotle’s Intellectual Virtue of Wisdom,” (Director: Joseph Goering).
+**University** of _Toronto_, Toronto, Ontario: Dissertation: “The Sapiential Character of _Sacra Doctrina_ in the Thought of St. Thomas Aquinas: The Appropriation of Aristotle’s Intellectual Virtue of Wisdom,” (Director: Joseph Goering).
 
 ## License in Mediaeval Studies (M.S.L.), specialization in Theology (1988)
 
