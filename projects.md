@@ -3,6 +3,7 @@ layout: page
 include_header: true
 title: Projects
 ---
+{% include image image_path="/assets/images/pages/projects01.jpg" alt="Projects picture" caption="Getting ready to work" %}
 <ul>
     {% for project in site.projects %}
     <li>

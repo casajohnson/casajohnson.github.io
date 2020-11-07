@@ -3,6 +3,8 @@ layout: page
 title: CV
 include_header: true
 ---
+{% include image image_path="/assets/images/pages/cv.jpg" alt="Johnson Road in New Berlin" caption="My own road, in New Berlin, Wisconsin" %}
+
 # Education
 
 ## Ph.D. in Medieval Studies, specialization in Theology (1990)
