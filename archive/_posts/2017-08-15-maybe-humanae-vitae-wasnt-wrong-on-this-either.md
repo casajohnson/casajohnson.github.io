@@ -5,13 +5,12 @@ title: Maybe <em>Humanae vitae</em> wasn’t wrong on this, either
 date: 2017-08-15T14:00:00+00:00
 image:
   path: /assets/images/posts/1502117236862.jpg
-  caption: "Skid marks in Dover, WI"
+  alt: Country road picture
+  caption: "A near miss on a country road (Dover, Wisconsin)"
 excerpt: Many Catholics remain so in spite of <em>Humanae vitae</em>. I am a Catholic today because of it. Here’s one reason why.
 category: archive, opinion, personal
 tags: Paul VI
 ---
-{% include image image_path="/assets/images/posts/1502117236862.jpg" alt="Country road picture" caption="A near miss on a country road (Dover, Wisconsin)" %}
-
 We approach the 50th anniversary of the Catholic Church document, _Humanae vitae_, which Pope Paul VI promulgated on July 29, 1968. Catholics at the time were flush with excitement and hope because of the recent Second Vatican Council (1962–1965), which served to “open the [Church’s] windows and let in the fresh air,” and thereby give the Church much-needed updating. If the Church was going to follow the signs of the times, however—the 1960’s were a churning sea of sexual liberation—then surely it must announce a change to its ancient teaching and practice on sexual and marital morality. Everyone else was now permitting the practice of contraception. Why not us Catholics?
 
 But to the consternation of most, the document failed to move us forward. It reaffirmed the ancient ways, and marched the Church right back into the middle ages. Boo-ooo-ooo.

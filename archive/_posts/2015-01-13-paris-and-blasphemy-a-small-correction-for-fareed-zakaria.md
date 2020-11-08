@@ -11,8 +11,6 @@ category: archive, opinion
 tags:
     - Fareed Zakaria
 ---
-{% include image image_path="/assets/images/posts/paris.jpg" alt="Picture of protester sign in Paris" caption="_Je suis Charlie_ protests in Paris" %}
-
 In his Washington Post op-ed Fareed Zakaria noted as a mistake the Paris terrorists’ invocation of “blasphemy” as the ground for their meting out “justice” to the editorial staff of Charlie Hebdo magazine. As he sees it, “avenging the Prophet Mohammed” by applying appropriate Koranic punishment has these terrorists getting things <a href="http://www.washingtonpost.com/opinions/fareed-zakaria-blasphemy-and-the-law-of-fanatics/2015/01/08/b0c14e38-9770-11e4-aabd-d0b93ff613d5_story.html">wrong</a>:
 
 > But in fact, the Koran prescribes no punishment for blasphemy. Like so many of the most fanatical and violent aspects of Islamic terrorism today, the idea that Islam requires that insults against the prophet Muhammad be met with violence is a creation of politicians and clerics to serve a political agenda.

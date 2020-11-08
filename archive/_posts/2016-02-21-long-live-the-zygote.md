@@ -11,8 +11,6 @@ category: archive, opinion
 tags:
   - Aristotle
 ---
-{% include image image_path="/assets/images/posts/zygote.jpg" alt="Artist's rendering of a zygote" caption="Artist's rendering of a zygote" %}
-
 A philosopher who is Christian contacted me recently regarding a paper that he is to present at a conference. The paper has to do with what philosophers call the “conception thesis” of human identity and personhood; are we humans persons from our conception, or at some later point? His paper attempts to tackle arguments _against_ the conception thesis, and I suspect that he is generally comfortable with the “conception thesis.” For my part I have long held to the theory of immediate hominization, which is Catholic for “the conception thesis.” In [1995](http://cdn.theologicalstudies.net/56/56.4/56.4.7.pdf) and again in [1997](http://cdn.theologicalstudies.net/58/58.4/58.4.6.pdf) I wrote on the topic in _Theological Studies_. This philosopher has read my TS articles, and contacted me for comments on some points he was making in drafts of his paper.
 
 While the issues of twinning and totipotency have long been objections against immediate hominization, some philosophers make other claims. When the one-celled zygote cleaves, they say, it necessarily ceases to be one, since the two cells that are the product of that first cleavage are not the same as the zygote; therefore continuity of any supposed life vanishes. In essence, the zygote dies, and other individuals come into existence (people who have read Norman Ford’s _When Did I Begin?_ will remember this line of thinking).

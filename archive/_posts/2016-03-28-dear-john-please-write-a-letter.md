@@ -13,8 +13,6 @@ tags:
   - Thomas More
   - Henry VIII
 ---
-{% include image image_path="/assets/images/posts/stm.jpg" alt="St. Thomas More and family" caption="St. Thomas More and family" %}
-
 Saint Thomas More (1478–1535), as we Catholics call him, was a man of principle. Confronted by King Henry VIII’s Oath of Supremacy (1534), in which the swearer of the Oath held that the king was
 
 > the onely Supreame Governour of this Realme, and all other his Highnesse Dominions and Countries, as well in all Spirituall or Ecclesiasticall things or causes, as Temporall

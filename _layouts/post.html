@@ -32,7 +32,18 @@ include_header: true
           {% endfor %}
         {%- endif -%}</p>
 
-    <div class="post-content e-content" itemprop="articleBody">
+      {%- if page.image -%}
+          <div class="article__img" style="text-align:center">
+            <img src="{{ page.image.path | relative_url }}" alt="{% if page.image.alt %}{{ page.image.alt }}{% endif %}">
+            {% if page.image.caption %}
+            <figcaption>
+              {{ page.image.caption | markdownify | remove: "<p>" | remove: "</p>" }}
+            </figcaption>
+            {% endif %}
+          </div>
+      {%- endif -%}
+    
+      <div class="post-content e-content" itemprop="articleBody">
       {{ content }}
     </div>
 
