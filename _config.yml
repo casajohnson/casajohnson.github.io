@@ -2,7 +2,7 @@ url: "https://casajohnson.github.io/" # the base hostname & protocol for your si
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "casa Johnson" # the name of your site, e.g. ACME Corp.
 description: "Medievalist. Thomist. Theology. Marquette." # short description found in footers
-greeting: "# **Hello from Wisconsin**. My name is Mark Johnson, and I teach and research at [Marquette University](https://www.marquette.edu/theology/directory/mark-johnson.php). GitHub stashes my stuff and hosts this site for those interested in my research."
+greeting: "# **Hello from Wisconsin**. My name is Mark Johnson, and I teach and research at [Marquette University](https://www.marquette.edu/theology/directory/mark-johnson.php). GitHub stashes my stuff and hosts this site for those interested in my work."
 
 show_excerpts: true # set to true to show excerpts on the blog page
 include_header: false # set to true to show the collapsing header on the page
