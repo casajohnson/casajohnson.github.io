@@ -3419,8 +3419,9 @@ input[type="search"]::-webkit-search-results-decoration {
   text-align: center;
 }
 .logo img {
-  width: 32px;
-  height: 32px;
+  // width: 32px;
+  // height: 32px;
+  width: 400px;
 }
 @media (prefers-color-scheme: dark) {
   .logo {
