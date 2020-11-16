@@ -1,4 +1,5 @@
 ---
+layout: page
 short_name: Damascene
 name: ...quod dicit Damascenus
 include_header: true

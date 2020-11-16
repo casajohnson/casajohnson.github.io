@@ -1,4 +1,5 @@
 ---
+layout: page
 include_header: true
 short_name: Paul of Hungary
 name: A critical edition of Paul of Hungary's summa de penitentia

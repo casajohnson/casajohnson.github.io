@@ -1,4 +1,5 @@
 ---
+layout: page
 name: "Reginald of Piperno and the _alia lectura fratris Thome_"
 include_header: true
 image:

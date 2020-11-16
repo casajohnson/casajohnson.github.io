@@ -1,4 +1,5 @@
 ---
+layout: page
 short_name: Alia lectura
 name: Alia lectura fratris Thome
 include_header: true
