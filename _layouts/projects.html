@@ -1,0 +1,23 @@
+---
+layout: default
+include_header: true
+---
+<article class="post">
+
+  <div class="container">
+    <div class="blog__feed">
+        {% for project in site.projects %}
+          <div class="blog__post">            
+            <div class="blog__meta-container">
+              <div class="blog__meta">
+              <h2><strong><a href="{{ project.link }}">{{ project.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></strong></h2>
+            </div>
+            </div>
+            <div class="blog__excerpt">
+              <a href="{{ welcome.link }}">{{ project.description | markdownify | remove: '<p>' | remove: '</p>' }}</a>
+            </div>
+          </div>
+        {% endfor %}
+    </div>
+  </div>
+</article>

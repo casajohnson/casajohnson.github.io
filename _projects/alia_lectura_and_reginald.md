@@ -1,15 +1,14 @@
 ---
 layout: page
-name: "Reginald of Piperno and the _alia lectura fratris Thome_"
 include_header: true
+short_title: Reginald of Piperno
+title: Reginald of Piperno and the _alia lectura fratris Thome_
+description: Was Thomas Aquinas's so-called _Roman Commentary_ on Book 1 of Lombard's _Sentences_ delivered while he was in Rome (1265–68)? Could it be from earlier? And could it be closer to Thomas than we have thought? I mean, _much_ closer?
 image:
   path: /assets/images/projects/reginaldus.jpg
   thumbnail: /assets/images/projects/reginaldus-400x200.jpg
   caption: "BNN Lat. VIII.f.16 f. 93vb: Thomas dictates, Reginald copies"
 ---
-
-Was Thomas Aquinas's so-called _Roman Commentary_ on Book 1 of Lombard's _Sentences_ delivered while he was in Rome (1265–68)? Could it be from earlier? And could it be closer to Thomas than we have thought? I mean, _much_ closer?
-
 This project will produce an article that studies the relationship that Thomas's trusty secretary, Reginald of Piperno, may have to this whole effort, the _Roman Commentary_ or, as I prefer to call it, the _alia lectura_.
 
 Thomas appears to have commented a second time on Book 1 of Peter Lombard's _Libri sententiarum_, and possibly while at Rome, as Tolomeo of Lucca tells us; it is Tolomeo who said that Thomas 'wrote it' while Thomas was in Rome (between 1265–1268), and that he himself once saw the text when he was visiting Lucca, his home priory (though Tolomeo does not specify a date). This whole moment in Thomas's teaching career has importance because it seems that it was immediately after this Roman experiment—or possibly during it—that Thomas started up the _Summa theologiae_.
