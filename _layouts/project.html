@@ -1,0 +1,53 @@
+---
+layout: default
+include_header: true
+---
+<div class="container">
+  <article class="article" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="article__header">
+      <h1 itemprop="name headline">
+        {{- page.title | markdownify | remove: "<p>" | remove: "</p>" -}}
+      </h1>
+    </div>
+      <p class="blog__meta">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          (As of {{ page.date | date: date_format }})
+        </time>
+        {%- if page.modified_date -%}
+          ~ 
+          {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+          <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+            {{ mdate | date: date_format }}
+          </time>
+        {%- endif -%}
+        {%- if page.author -%}
+          {% for author in page.author %}
+            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+              <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+              {%- if forloop.last == false %}, {% endif -%}
+          {% endfor %}
+        {%- endif -%}</p>
+
+      {%- if page.image -%}
+          <div class="article__img" style="text-align:center">
+            <img src="{{ page.image.path | relative_url }}" alt="{% if page.image.alt %}{{ page.image.alt }}{% endif %}">
+            {% if page.image.caption %}
+            <figcaption>
+              {{ page.image.caption | markdownify | remove: "<p>" | remove: "</p>" }}
+            </figcaption>
+            {% endif %}
+          </div>
+      {%- endif -%}
+    
+      <div class="post-content e-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+
+    {%- if site.disqus.shortname -%}
+      {%- include disqus_comments.html -%}
+    {%- endif -%}
+
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  </article>
+  </div>

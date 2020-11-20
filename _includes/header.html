@@ -4,7 +4,7 @@
     <header class="header-primary is-closed">
       <div id="breadcrumbs">
         <span><span><a href="/">casa Johnson</a> / <span class="breadcrumb_last"
-              aria-current="page">{{ page.title }}</span></span></span>
+              aria-current="page">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</span></span></span>
       </div>
           
       <span class="toggler">

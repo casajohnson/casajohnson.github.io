@@ -1,7 +1,14 @@
 ---
-layout: page
+layout: project
 include_header: true
 short_title: Damascene
-title: Quod dicit Damascenus...
+title: Sicut dicit Damascenus...
+description: Thomas consistently uses a branch of John Damascene's <em>De fide orthodoxa</em> that was at some remove from Burgundio's translation
 ---
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc sit amet nisi sed enim tempus rhoncus ac eu urna. Vestibulum pretium fermentum nulla, quis elementum mi cursus et. Cras ut leo eu ex fringilla congue. Donec hendrerit imperdiet metus quis tempor. Maecenas scelerisque ipsum erat, at ornare lorem egestas quis. Maecenas tincidunt nec massa ullamcorper vestibulum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut libero tellus, suscipit et hendrerit id, egestas at ipsum. Nullam lacinia est sit amet magna fermentum, in euismod magna blandit. Donec et mollis tellus. Proin eu laoreet justo, sit amet dignissim tortor. Donec pharetra porta ullamcorper.
+In preparing a paper for an Ave Maria conference a few years back I noticed that Thomas consistently used a verion of Damascene's _De fide orthodoxa_ that was a branch on the stemma quite removed from the 12th-century copies that were close to Burgundio's Latin translation. Yet Thomas was so at home with his version that he opened the _Prima secundae_ with a quotation from Damascene:
+
+> Quia, sicut Damascenus dicit, homo factus ad imaginem Dei dicitur, secundum quod per imaginem significatur intellectuale et arbitrio liberum et per se potestativum; postquam praedictum est de exemplari...
+
+What struck me was that the three notes in Damascene that Thomas mentions—_intellectuale_, _arbitrium liberum_, and _per se potestativum_ —were only two in Burgundio's translation: _intellectuale_ and _arbitrium liberum_. Thomas seems to have thought that Damascene himself thought that the three notes here had bases that distinguished them one from another. But in the Greek and in Burgundio there were only the two.
+
+How does this all work? Time to dig into the texts.
