@@ -3,7 +3,7 @@ layout: page
 include_header: true
 short_title: Reginald of Piperno
 title: Reginald of Piperno and the _alia lectura fratris Thome_
-description: Was Thomas Aquinas's so-called _Roman Commentary_ on Book 1 of Lombard's _Sentences_ delivered while he was in Rome (1265–68)? Could it be from earlier? And could it be closer to Thomas than we have thought? I mean, _much_ closer?
+description: With Tolomeo of Lucca we say that Thomas Aquinas's so-called _Roman Commentary_ on Book 1 of Lombard's _Sentences_ was delivered while he was in Rome (1265–68)? Could it be from earlier? And could it be closer to Thomas than we have thought? I mean, _much_ closer?
 image:
   path: /assets/images/projects/reginaldus.jpg
   thumbnail: /assets/images/projects/reginaldus-400x200.jpg
