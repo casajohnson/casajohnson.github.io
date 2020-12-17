@@ -9,6 +9,6 @@ In preparing a paper for an Ave Maria conference a few years back I noticed that
 
 > Quia, sicut Damascenus dicit, homo factus ad imaginem Dei dicitur, secundum quod per imaginem significatur intellectuale et arbitrio liberum et per se potestativum; postquam praedictum est de exemplari...
 
-What struck me was that the three notes in Damascene that Thomas mentions—_intellectuale_, _arbitrium liberum_, and _per se potestativum_ —were only two in Burgundio's translation: _intellectuale_ and _arbitrium liberum_. Thomas seems to have thought that Damascene himself thought that the three notes here had bases that distinguished them one from another. But in the Greek and in Burgundio there were only the two.
+What struck me was that the three notes in Damascene that Thomas mentions—_intellectuale_, _arbitrium liberum_, and _per se potestativum_ —were only two in Burgundio's translation: _intellectuale_ and _arbitrium liberum_. Thomas takes Damascene to mean that the three items here had bases that distinguished them one from another. But in Damascene's Greek and in Burgundio Latin there were only the two.
 
 How does this all work? Time to dig into the texts.
