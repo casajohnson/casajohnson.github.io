@@ -3,7 +3,7 @@ layout: project
 include_header: true
 short_title: Damascene
 title: Sicut dicit Damascenus...
-description: Thomas consistently uses a branch of John Damascene's <em>De fide orthodoxa</em> that was at some remove from Burgundio's translation
+description: Thomas uses a branch of John Damascene's <em>De fide orthodoxa</em> at some remove from Burgundio's translation. It matters.
 ---
 In preparing a paper for an Ave Maria conference a few years back I noticed that Thomas consistently used a verion of Damascene's _De fide orthodoxa_ that was a branch on the stemma quite removed from the 12th-century copies that were close to Burgundio's Latin translation. Yet Thomas was so at home with his version that he opened the _Prima secundae_ with a quotation from Damascene:
 
