@@ -3,7 +3,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "casa Johnson" # the name of your site, e.g. ACME Corp.
 description: "Medievalist. Thomist. Theology. Marquette." # short description found in footers
 author: Mark Johnson
-greeting: "# **Hello from Wisconsin**. My name is Mark Johnson, and I teach and research at [Marquette University](https://www.marquette.edu/theology/directory/mark-johnson.php). GitHub stashes my stuff and hosts this site for those interested in my work."
+greeting: "# **Hello from Wisconsin**. My name is Mark Johnson, and I teach and research at [Marquette University](https://www.marquette.edu/theology/directory/mark-johnson.php). GitHub hosts my site, and stashes my stuff for all to see."
 
 show_excerpts: true # set to true to show excerpts on the blog page
 include_header: false # set to true to show the collapsing header on the page

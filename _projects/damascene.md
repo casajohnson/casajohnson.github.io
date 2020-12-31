@@ -5,7 +5,7 @@ short_title: Damascene
 title: Sicut dicit Damascenus...
 description: Thomas uses a branch of John Damascene's <em>De fide orthodoxa</em> at some remove from Burgundio's translation. It matters.
 ---
-In preparing a paper for an Ave Maria conference a few years back I noticed that Thomas consistently used a verion of Damascene's _De fide orthodoxa_ that was a branch on the stemma quite removed from the 12th-century copies that were close to Burgundio's Latin translation. Yet Thomas was so at home with his version that he opened the _Prima secundae_ with a quotation from Damascene:
+In preparing a paper for an Ave Maria conference a few years back I noticed that Thomas consistently used a version of Damascene's _De fide orthodoxa_ that was a branch on the stemma quite removed from the 12th-century copies that were close to Burgundio's Latin translation. Yet Thomas was so at home with his version that he opened the _Prima secundae_ with a quotation from Damascene:
 
 > Quia, sicut Damascenus dicit, homo factus ad imaginem Dei dicitur, secundum quod per imaginem significatur intellectuale et arbitrio liberum et per se potestativum; postquam praedictum est de exemplari...
 
