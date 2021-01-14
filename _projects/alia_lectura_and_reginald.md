@@ -20,4 +20,4 @@ Conversations with Adriano Oliva and Fabio Gibiino have encouraged me to study c
 
 * The copy of Thomas's Parisian _scriptum_ on Book 1 of the _Sentences_ carried in the Lincoln College manuscript is _not_ the final one copied from the Parisian booksellers, but is an earlier version thereof.
 * Did Reginald's script evolve over time—and especially after his time in Paris with Thomas from 1268–1272? Can we link French (i.e., non-Italian) abbreviations in his writing only after Thomas's second Parisian regency (and Reginald's first experience)?
-* Oh, yeah. It is Reginald's hand that copies the final two texts in the _alia lectura_, plus makes a severe correction to the antepenultimate article. What does this all mean?
+* Oh, yeah. It is Reginald's hand that copies the final two texts in the _alia lectura_, plus makes a severe correction to the antepenultimate article. And elsewhere there is a standalone marginal _nota bene_ on the Trinity. What does this all mean?
